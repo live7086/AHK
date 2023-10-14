@@ -1,0 +1,2 @@
+# AHK
+Auto Script
