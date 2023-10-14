@@ -1,0 +1,666 @@
+﻿<xml>
+  <variables>
+    <variable id="S}+*eTdu#STGjR;?W,P!">x</variable>
+    <variable id="9vdU)iZx3R2VNs`lDiC4">變數 x</variable>
+    <variable id="tJSr*H;5;ewAd1*08C!L">圖片像素X</variable>
+    <variable id="hcSB8#SGkC!pT)L{=b%d">圖片像素Y</variable>
+  </variables>
+  <block type="hotkey_execute" id="*xobo8Pc(OoF?E(q/}Rj" x="29" y="39">
+    <value name="NAME">
+      <block type="special_key" id="9Sc[!/;66M$Tu#By9T;X">
+        <field name="special_key">F8</field>
+      </block>
+    </value>
+    <statement name="DO">
+      <block type="variables_set" id="xEQdEWtSG-T9/.RGt=fq">
+        <field name="VAR" id="S}+*eTdu#STGjR;?W,P!">x</field>
+        <value name="VALUE">
+          <block type="text" id="]OffY[PQ4|V`T2YL$QPj">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <next>
+          <block type="variables_set" id="|kORUrX[X%fz=/C%_}.+">
+            <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+            <value name="VALUE">
+              <block type="text" id="hbt0RCZ[=CK]c1r1#O`9">
+                <field name="TEXT"></field>
+              </block>
+            </value>
+            <next>
+              <block type="controls_whileUntil" id=".~~u`tCswF!v5Gof6YFy">
+                <field name="MODE">UNTIL</field>
+                <value name="BOOL">
+                  <block type="logic_compare" id="7`?czC9OjL2.Y]Z{]8)B">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="variables_get" id="@`Rs$jNM.Ctc(XQU`Ap[">
+                        <field name="VAR" id="S}+*eTdu#STGjR;?W,P!">x</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="text" id="Bzz7.Z,_MVFx7Cze4VRq">
+                        <field name="TEXT">OK</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <statement name="DO">
+                  <block type="sleep" id="-[u_:*4hD~wf65HkBxP@">
+                    <value name="NAME">
+                      <block type="math_number" id="J.VjDpB2:+osAeYO@l-u">
+                        <field name="NUM">1500</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="click_x_y" id="ufy5/ssv*g@^6Z.F`tEO">
+                        <value name="X">
+                          <block type="math_number" id="KW8u:O}A{x0s.x^gTZ}G">
+                            <field name="NUM">900</field>
+                          </block>
+                        </value>
+                        <value name="Y">
+                          <block type="math_number" id="Q|RX!97UYxi*8Bju=d-7">
+                            <field name="NUM">900</field>
+                          </block>
+                        </value>
+                        <value name="TIMES">
+                          <block type="math_number" id="fZ4))hr`tBC`+I4W/;px">
+                            <field name="NUM">0</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="sleep" id="(Gny,K9CdsL;U38Q=()~">
+                            <value name="NAME">
+                              <block type="math_number" id="RdzNBU%@DE$FcdrqID^Q">
+                                <field name="NUM">1500</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="click_x_y" id="9zwZwKogkJWB8lj-IS*H">
+                                <value name="X">
+                                  <block type="math_number" id="kf/=wvLM:+@4_dM[1-_w">
+                                    <field name="NUM">974</field>
+                                  </block>
+                                </value>
+                                <value name="Y">
+                                  <block type="math_number" id="5_5~*9YJc6B`PP`K*yc^">
+                                    <field name="NUM">858</field>
+                                  </block>
+                                </value>
+                                <value name="TIMES">
+                                  <block type="math_number" id="=O:Q1V]#?:I$P38dd=Pl">
+                                    <field name="NUM">1</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="sleep" id="9HLwHjS:C4P%MYeI]@/Z">
+                                    <value name="NAME">
+                                      <block type="math_number" id="M%.E.YH(]zFO$]7N.Xwy">
+                                        <field name="NUM">1500</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="click_x_y" id="asa?QZt/MtLvA)GCoPHZ">
+                                        <value name="X">
+                                          <block type="math_number" id="b3B|IlXEuJ`D8ZfxYl9l">
+                                            <field name="NUM">976</field>
+                                          </block>
+                                        </value>
+                                        <value name="Y">
+                                          <block type="math_number" id="~0gUhvXcL)4o^@!I*-F8">
+                                            <field name="NUM">561</field>
+                                          </block>
+                                        </value>
+                                        <value name="TIMES">
+                                          <block type="math_number" id="a@4sN]v8eI`)QEBSx|{`">
+                                            <field name="NUM">1</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="sleep" id="VT;e-*s$3K$g/Pp0;now">
+                                            <value name="NAME">
+                                              <block type="math_number" id="T7gl3-D0+Mw3NZ#@A14u">
+                                                <field name="NUM">2500</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="click_x_y" id="l+S~Cf5ssFdQ[PIrW+3Y">
+                                                <value name="X">
+                                                  <block type="math_number" id="p]?Yei:B^P2R`IU,})20">
+                                                    <field name="NUM">808</field>
+                                                  </block>
+                                                </value>
+                                                <value name="Y">
+                                                  <block type="math_number" id="fxu.W}C%gDWo1^OwDbfg">
+                                                    <field name="NUM">515</field>
+                                                  </block>
+                                                </value>
+                                                <value name="TIMES">
+                                                  <block type="math_number" id="2?kKbGJj@jX4Rk+C!8nR">
+                                                    <field name="NUM">1</field>
+                                                  </block>
+                                                </value>
+                                                <next>
+                                                  <block type="sleep" id="d%LbyrM-Cl}3AJfi*!eH">
+                                                    <value name="NAME">
+                                                      <block type="math_number" id="svDN!p/Zpg=;Tq!Y#.zk">
+                                                        <field name="NUM">2000</field>
+                                                      </block>
+                                                    </value>
+                                                    <next>
+                                                      <block type="click_x_y" id="?w5yWh||it7#)TZ;O4a!">
+                                                        <value name="X">
+                                                          <block type="math_number" id="$RSgn{k0CSa7{2S8{O^e">
+                                                            <field name="NUM">816</field>
+                                                          </block>
+                                                        </value>
+                                                        <value name="Y">
+                                                          <block type="math_number" id="Oy(O)pKU;3|.TG1=VewZ">
+                                                            <field name="NUM">556</field>
+                                                          </block>
+                                                        </value>
+                                                        <value name="TIMES">
+                                                          <block type="math_number" id="oXj3[DJqUT[]0EIOY?k5">
+                                                            <field name="NUM">1</field>
+                                                          </block>
+                                                        </value>
+                                                        <next>
+                                                          <block type="sleep" id="[XMJt4-m;kD.B|M4JcG.">
+                                                            <value name="NAME">
+                                                              <block type="math_number" id="!ZCZ?k9GHuOJ^Bw~o[/]">
+                                                                <field name="NUM">1000</field>
+                                                              </block>
+                                                            </value>
+                                                            <next>
+                                                              <block type="click_x_y" id="yKT_G{19b$@h7{U0:i]9">
+                                                                <value name="X">
+                                                                  <block type="math_number" id="-*ZG_Vex%2ngDRPbX:L`">
+                                                                    <field name="NUM">864</field>
+                                                                  </block>
+                                                                </value>
+                                                                <value name="Y">
+                                                                  <block type="math_number" id="On?g@SzBsl|J|mj:V+Id">
+                                                                    <field name="NUM">612</field>
+                                                                  </block>
+                                                                </value>
+                                                                <value name="TIMES">
+                                                                  <block type="math_number" id="BQ!%Aq8oI/z9yN$#L5$X">
+                                                                    <field name="NUM">1</field>
+                                                                  </block>
+                                                                </value>
+                                                                <next>
+                                                                  <block type="sleep" id="i3X[2O*oj$k8=vv~/v7j">
+                                                                    <value name="NAME">
+                                                                      <block type="math_number" id="loQtjj06=Pc?1eTVi]f.">
+                                                                        <field name="NUM">5000</field>
+                                                                      </block>
+                                                                    </value>
+                                                                    <next>
+                                                                      <block type="click_x_y" id="vm5-B7{*I1F%^1~6sMPq">
+                                                                        <value name="X">
+                                                                          <block type="math_number" id="``at~P*Qzi(Us(+cvhKg">
+                                                                            <field name="NUM">982</field>
+                                                                          </block>
+                                                                        </value>
+                                                                        <value name="Y">
+                                                                          <block type="math_number" id="QwKWBxe/)T=/RhPa6a:!">
+                                                                            <field name="NUM">542</field>
+                                                                          </block>
+                                                                        </value>
+                                                                        <value name="TIMES">
+                                                                          <block type="math_number" id="dCu*UK#rr1w6iaQ$l::{">
+                                                                            <field name="NUM">1</field>
+                                                                          </block>
+                                                                        </value>
+                                                                        <next>
+                                                                          <block type="sleep" id="i,:A}9}{[.h:Yn.@0|U}">
+                                                                            <value name="NAME">
+                                                                              <block type="math_number" id="NZ`IoQ5O3hd38=lSBTt|">
+                                                                                <field name="NUM">3500</field>
+                                                                              </block>
+                                                                            </value>
+                                                                            <next>
+                                                                              <block type="click_x_y" id="f5rSCGL@=Yk]JWkyd@;g">
+                                                                                <value name="X">
+                                                                                  <block type="math_number" id="6R]2s2_D~pnUYtLfQ;a]">
+                                                                                    <field name="NUM">982</field>
+                                                                                  </block>
+                                                                                </value>
+                                                                                <value name="Y">
+                                                                                  <block type="math_number" id="iXCgy|Ub_qs/U1hSm~6o">
+                                                                                    <field name="NUM">852</field>
+                                                                                  </block>
+                                                                                </value>
+                                                                                <value name="TIMES">
+                                                                                  <block type="math_number" id="Sio{M]?z^=$zftooETD@">
+                                                                                    <field name="NUM">1</field>
+                                                                                  </block>
+                                                                                </value>
+                                                                                <next>
+                                                                                  <block type="sleep" id=",fY7U;T@%=mZiY}35|6d">
+                                                                                    <value name="NAME">
+                                                                                      <block type="math_number" id="]oMYI{9N4b)M{*M?0dOw">
+                                                                                        <field name="NUM">10000</field>
+                                                                                      </block>
+                                                                                    </value>
+                                                                                    <next>
+                                                                                      <block type="controls_whileUntil" id="jFh8La;`?:%.eMwB]E=V">
+                                                                                        <field name="MODE">UNTIL</field>
+                                                                                        <value name="BOOL">
+                                                                                          <block type="logic_compare" id="sy,On58s7WtHV#-]/juf">
+                                                                                            <field name="OP">EQ</field>
+                                                                                            <value name="A">
+                                                                                              <block type="variables_get" id="1a5Pt?#U86(,gU/Ul$/a">
+                                                                                                <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+                                                                                              </block>
+                                                                                            </value>
+                                                                                            <value name="B">
+                                                                                              <block type="text" id="na.;N@{cPU~W~j,tG~a(">
+                                                                                                <field name="TEXT">OK</field>
+                                                                                              </block>
+                                                                                            </value>
+                                                                                          </block>
+                                                                                        </value>
+                                                                                        <statement name="DO">
+                                                                                          <block type="coord_mode" id="?4rYRHW%t,K=R(9bcKWq">
+                                                                                            <field name="NAME">window </field>
+                                                                                            <next>
+                                                                                              <block type="click_x_y" id="Y~Amz0OdQY3_|Zh)}X:F">
+                                                                                                <value name="X">
+                                                                                                  <block type="math_number" id="Iu7:l$}b-bBKh7RxXCt/">
+                                                                                                    <field name="NUM">1000</field>
+                                                                                                  </block>
+                                                                                                </value>
+                                                                                                <value name="Y">
+                                                                                                  <block type="math_number" id="3LT21-_OZA/m/@x!n:z3">
+                                                                                                    <field name="NUM">600</field>
+                                                                                                  </block>
+                                                                                                </value>
+                                                                                                <value name="TIMES">
+                                                                                                  <block type="math_number" id="OJ{yePPl+b/z2}8kXjlT">
+                                                                                                    <field name="NUM">0</field>
+                                                                                                  </block>
+                                                                                                </value>
+                                                                                                <next>
+                                                                                                  <block type="key_down" id="qXwwH{_ofVSlUsY#;P0j">
+                                                                                                    <value name="NAME">
+                                                                                                      <block type="special_key" id=":d)@|[%a#z_@w7=?G7V,">
+                                                                                                        <field name="special_key">LButton</field>
+                                                                                                      </block>
+                                                                                                    </value>
+                                                                                                    <next>
+                                                                                                      <block type="sleep" id="Jl-pc@vMXv:P[7acfmrG">
+                                                                                                        <value name="NAME">
+                                                                                                          <block type="math_number" id="JuHf8qGuWrzF;7#1_$B{">
+                                                                                                            <field name="NUM">1500</field>
+                                                                                                          </block>
+                                                                                                        </value>
+                                                                                                        <next>
+                                                                                                          <block type="click_x_y" id="Wd.N@ICFC)u%pTR@TN_8">
+                                                                                                            <value name="X">
+                                                                                                              <block type="math_number" id="0W));h:f=pF@UvG2Rxyr">
+                                                                                                                <field name="NUM">883</field>
+                                                                                                              </block>
+                                                                                                            </value>
+                                                                                                            <value name="Y">
+                                                                                                              <block type="math_number" id="Fj)1S=3}NHw.reP_$J,X">
+                                                                                                                <field name="NUM">510</field>
+                                                                                                              </block>
+                                                                                                            </value>
+                                                                                                            <value name="TIMES">
+                                                                                                              <block type="math_number" id="mPl29oV(6WA/rqgtr[R+">
+                                                                                                                <field name="NUM">0</field>
+                                                                                                              </block>
+                                                                                                            </value>
+                                                                                                            <next>
+                                                                                                              <block type="key_up" id="H#8F$O{wToQkOxQQz2[m">
+                                                                                                                <value name="NAME">
+                                                                                                                  <block type="special_key" id="jk9VCcHO]JwkRvA8B-#j">
+                                                                                                                    <field name="special_key">LButton</field>
+                                                                                                                  </block>
+                                                                                                                </value>
+                                                                                                                <next>
+                                                                                                                  <block type="sleep" id="BUqN1~!f%kGH-1~B3b01">
+                                                                                                                    <value name="NAME">
+                                                                                                                      <block type="math_number" id="RVp4epaCSvc`31%1p)v;">
+                                                                                                                        <field name="NUM">1000</field>
+                                                                                                                      </block>
+                                                                                                                    </value>
+                                                                                                                    <next>
+                                                                                                                      <block type="get_pixel_pos" id="#[6B0:KPGShX/+vVp:GQ">
+                                                                                                                        <field name="pos_x" id="tJSr*H;5;ewAd1*08C!L">圖片像素X</field>
+                                                                                                                        <field name="pos_y" id="hcSB8#SGkC!pT)L{=b%d">圖片像素Y</field>
+                                                                                                                        <statement name="get_pixel_pos_setting">
+                                                                                                                          <block type="pixel_color_id" id="NIAn;Jq3)TM`)PNl,q)A">
+                                                                                                                            <field name="ColorID">121829</field>
+                                                                                                                            <next>
+                                                                                                                              <block type="pixel_search_area" id="1Y)2NPbu0=q{v4iQ2QTd">
+                                                                                                                                <value name="X">
+                                                                                                                                  <block type="math_number" id="%.dQCzdDe`/e:5Cv2b+A">
+                                                                                                                                    <field name="NUM">988</field>
+                                                                                                                                  </block>
+                                                                                                                                </value>
+                                                                                                                                <value name="Y">
+                                                                                                                                  <block type="math_number" id="ome}9h~2N{zcvJo`B$:4">
+                                                                                                                                    <field name="NUM">603</field>
+                                                                                                                                  </block>
+                                                                                                                                </value>
+                                                                                                                                <value name="W">
+                                                                                                                                  <block type="math_number" id="EG_6:a=wVpQnI/jY09,]">
+                                                                                                                                    <field name="NUM">1008</field>
+                                                                                                                                  </block>
+                                                                                                                                </value>
+                                                                                                                                <value name="H">
+                                                                                                                                  <block type="math_number" id=".F#9Xobb6fw6D{=n2:$]">
+                                                                                                                                    <field name="NUM">584</field>
+                                                                                                                                  </block>
+                                                                                                                                </value>
+                                                                                                                              </block>
+                                                                                                                            </next>
+                                                                                                                          </block>
+                                                                                                                        </statement>
+                                                                                                                        <statement name="DO">
+                                                                                                                          <block type="procedures_callnoreturn" id="[hf|a3lR3e~I*ioW?~hk">
+                                                                                                                            <mutation name="跳過"></mutation>
+                                                                                                                            <next>
+                                                                                                                              <block type="variables_set" id="5y?9)/}z#Jm*!2$ybaFi">
+                                                                                                                                <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+                                                                                                                                <value name="VALUE">
+                                                                                                                                  <block type="text" id="D0,Y!msFECL}WF6hkoIe">
+                                                                                                                                    <field name="TEXT">OK</field>
+                                                                                                                                  </block>
+                                                                                                                                </value>
+                                                                                                                              </block>
+                                                                                                                            </next>
+                                                                                                                          </block>
+                                                                                                                        </statement>
+                                                                                                                        <statement name="ELSE_DO">
+                                                                                                                          <block type="sleep" id="ENK[Z6D2`eCzW5HgTc?j">
+                                                                                                                            <value name="NAME">
+                                                                                                                              <block type="math_number" id="oB?+GdGAo(I$_$P(6d#+">
+                                                                                                                                <field name="NUM">1000</field>
+                                                                                                                              </block>
+                                                                                                                            </value>
+                                                                                                                          </block>
+                                                                                                                        </statement>
+                                                                                                                      </block>
+                                                                                                                    </next>
+                                                                                                                  </block>
+                                                                                                                </next>
+                                                                                                              </block>
+                                                                                                            </next>
+                                                                                                          </block>
+                                                                                                        </next>
+                                                                                                      </block>
+                                                                                                    </next>
+                                                                                                  </block>
+                                                                                                </next>
+                                                                                              </block>
+                                                                                            </next>
+                                                                                          </block>
+                                                                                        </statement>
+                                                                                        <next>
+                                                                                          <block type="sleep" id="i9%HI5ITOt3+,C$4q3iy">
+                                                                                            <value name="NAME">
+                                                                                              <block type="math_number" id="_xE?[Hy:MGIYAEIBi@{U">
+                                                                                                <field name="NUM">7000</field>
+                                                                                              </block>
+                                                                                            </value>
+                                                                                            <next>
+                                                                                              <block type="variables_set" id="(JJRff.@$41+%g1(@p#a">
+                                                                                                <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+                                                                                                <value name="VALUE">
+                                                                                                  <block type="text" id="n0quTCa%WmjU#S1%}Dyd">
+                                                                                                    <field name="TEXT"></field>
+                                                                                                  </block>
+                                                                                                </value>
+                                                                                              </block>
+                                                                                            </next>
+                                                                                          </block>
+                                                                                        </next>
+                                                                                      </block>
+                                                                                    </next>
+                                                                                  </block>
+                                                                                </next>
+                                                                              </block>
+                                                                            </next>
+                                                                          </block>
+                                                                        </next>
+                                                                      </block>
+                                                                    </next>
+                                                                  </block>
+                                                                </next>
+                                                              </block>
+                                                            </next>
+                                                          </block>
+                                                        </next>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </statement>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="procedures_defnoreturn" id="=%++4M,nfd-+,WVVpMN#" x="606" y="483">
+    <field name="NAME">跳過</field>
+    <comment pinned="false" h="80" w="160">請按右鍵＞創造函式積木
+來使用此函式積木</comment>
+    <statement name="STACK">
+      <block type="variables_set" id="yDdhucD4CIrBUa_FpMW{">
+        <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+        <value name="VALUE">
+          <block type="text" id="H6-}s(s/mX8pMlO-1ENE">
+            <field name="TEXT">OK</field>
+          </block>
+        </value>
+        <next>
+          <block type="sleep" id="vUVbHO],edla*x(L}-kc">
+            <value name="NAME">
+              <block type="math_number" id="RrU]$=sJaksoj0[6`a)U">
+                <field name="NUM">2000</field>
+              </block>
+            </value>
+            <next>
+              <block type="click_x_y" id="LTDA|n24$XG9]|oQNK@-">
+                <value name="X">
+                  <block type="math_number" id="YGSz].XC#B|,4#^:EaU@">
+                    <field name="NUM">983</field>
+                  </block>
+                </value>
+                <value name="Y">
+                  <block type="math_number" id="I(z;fE~k+K@Zb!_ngK:-">
+                    <field name="NUM">658</field>
+                  </block>
+                </value>
+                <value name="TIMES">
+                  <block type="math_number" id=".i}EFg2xxP|nWIG8a;[;">
+                    <field name="NUM">2</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="sleep" id="gIrR$;II8X^.dN486t^6">
+                    <value name="NAME">
+                      <block type="math_number" id="1`lae3Gor}M356;`3^5p">
+                        <field name="NUM">3000</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="controls_repeat_ext" id="]TF%@0_MniPXHglJp_d8">
+                        <value name="TIMES">
+                          <block type="math_number" id="6M/`f?x?eELeR8]-?c;Z">
+                            <field name="NUM">5</field>
+                          </block>
+                        </value>
+                        <statement name="DO">
+                          <block type="coord_mode" id="giis1XFKZzQ.~5[gQot!">
+                            <field name="NAME">window </field>
+                            <next>
+                              <block type="click_x_y" id="_67%{[ha6V4+1L%tv^wD">
+                                <value name="X">
+                                  <block type="math_number" id="UC^tdo(tX4-yV.A4,jb~">
+                                    <field name="NUM">979</field>
+                                  </block>
+                                </value>
+                                <value name="Y">
+                                  <block type="math_number" id="g-?9`XtB}x}3`zMSEIlT">
+                                    <field name="NUM">987</field>
+                                  </block>
+                                </value>
+                                <value name="TIMES">
+                                  <block type="math_number" id="jNm5(bR3e1f36v5lzrh_">
+                                    <field name="NUM">1</field>
+                                  </block>
+                                </value>
+                                <next>
+                                  <block type="sleep" id="Cx8]+x2:j,=}|4/_Q/9u">
+                                    <value name="NAME">
+                                      <block type="math_number" id="zyBnRP=Zk$sfWu+1qz!q">
+                                        <field name="NUM">500</field>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="click_x_y" id="t[WX~t;cL!Hzf!luFlS]">
+                                        <value name="X">
+                                          <block type="math_number" id="YTkvS%h_d^7)}p@(E#@U">
+                                            <field name="NUM">979</field>
+                                          </block>
+                                        </value>
+                                        <value name="Y">
+                                          <block type="math_number" id="J.J*8j7L(I2;dPdw)s}o">
+                                            <field name="NUM">987</field>
+                                          </block>
+                                        </value>
+                                        <value name="TIMES">
+                                          <block type="math_number" id="~V:=JG/4*Y1fUX_m`G8A">
+                                            <field name="NUM">1</field>
+                                          </block>
+                                        </value>
+                                        <next>
+                                          <block type="sleep" id="j?@1Q-L4v7?imEUQ?aqM">
+                                            <value name="NAME">
+                                              <block type="math_number" id="K?XVR!ZuR|XCm%j_zEp*">
+                                                <field name="NUM">500</field>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="click_x_y" id="0|Gggi3xyItt2qJy$lDU">
+                                                <value name="X">
+                                                  <block type="math_number" id="zB^E1-`0s`gcp[MvOIA(">
+                                                    <field name="NUM">979</field>
+                                                  </block>
+                                                </value>
+                                                <value name="Y">
+                                                  <block type="math_number" id="(|kHgmR:T(C9#At)siS?">
+                                                    <field name="NUM">987</field>
+                                                  </block>
+                                                </value>
+                                                <value name="TIMES">
+                                                  <block type="math_number" id="l=~7yi=huHnJq65;qFFD">
+                                                    <field name="NUM">1</field>
+                                                  </block>
+                                                </value>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </statement>
+                        <next>
+                          <block type="sleep" id="~x4$F-DVPxG@W~q#Ok(L">
+                            <value name="NAME">
+                              <block type="math_number" id="^Q*3Q2l``S,0m_=vijP6">
+                                <field name="NUM">10000</field>
+                              </block>
+                            </value>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="hotkey_execute" id="{cm00Dni5+9uAu.9--4k" x="0" y="1610">
+    <value name="NAME">
+      <block type="special_key" id="qsvt.Ep9oG8lz(Z9(*`f">
+        <field name="special_key">F9</field>
+      </block>
+    </value>
+    <statement name="DO">
+      <block type="variables_set" id="$Q!$l)j[aVq}3`?6MGF[">
+        <field name="VAR" id="S}+*eTdu#STGjR;?W,P!">x</field>
+        <value name="VALUE">
+          <block type="text" id="fx`tx4?YBoh=GC2G67~=">
+            <field name="TEXT">OK</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="hotkey_execute" id="W3jg@+u2eQ_2wSk_L`4q" x="0" y="1702">
+    <value name="NAME">
+      <block type="special_key" id="R$G@HfelX;loageDvpaV">
+        <field name="special_key">F6</field>
+      </block>
+    </value>
+    <statement name="DO">
+      <block type="variables_set" id="`YUo{TE#9)q;[%Ca*}~E">
+        <field name="VAR" id="S}+*eTdu#STGjR;?W,P!">x</field>
+        <value name="VALUE">
+          <block type="text" id="@3sTsOBX{mPh`?Evj#w3">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="hotkey_execute" id="o]-lh6cN6,blB,)bq(N0" x="0" y="1794">
+    <value name="NAME">
+      <block type="special_key" id="e])W,MHf,J]wAwAoDrCt">
+        <field name="special_key">F11</field>
+      </block>
+    </value>
+    <statement name="DO">
+      <block type="variables_set" id="v,7B(WK%W]$.WM:iG6wa">
+        <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+        <value name="VALUE">
+          <block type="text" id="/R23Pxf~N7R|UyfO+v*2">
+            <field name="TEXT">OK</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
