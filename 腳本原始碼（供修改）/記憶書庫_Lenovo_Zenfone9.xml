@@ -49,12 +49,12 @@
                   <block type="click_x_y" id="ufy5/ssv*g@^6Z.F`tEO">
                     <value name="X">
                       <block type="math_number" id="KW8u:O}A{x0s.x^gTZ}G">
-                        <field name="NUM">979</field>
+                        <field name="NUM">980</field>
                       </block>
                     </value>
                     <value name="Y">
                       <block type="math_number" id="Q|RX!97UYxi*8Bju=d-7">
-                        <field name="NUM">859</field>
+                        <field name="NUM">766</field>
                       </block>
                     </value>
                     <value name="TIMES">
@@ -73,12 +73,12 @@
                           <block type="click_x_y" id="asa?QZt/MtLvA)GCoPHZ">
                             <value name="X">
                               <block type="math_number" id="b3B|IlXEuJ`D8ZfxYl9l">
-                                <field name="NUM">976</field>
+                                <field name="NUM">982</field>
                               </block>
                             </value>
                             <value name="Y">
                               <block type="math_number" id="~0gUhvXcL)4o^@!I*-F8">
-                                <field name="NUM">561</field>
+                                <field name="NUM">495</field>
                               </block>
                             </value>
                             <value name="TIMES">
@@ -97,12 +97,12 @@
                                   <block type="click_x_y" id="l+S~Cf5ssFdQ[PIrW+3Y">
                                     <value name="X">
                                       <block type="math_number" id="p]?Yei:B^P2R`IU,})20">
-                                        <field name="NUM">808</field>
+                                        <field name="NUM">830</field>
                                       </block>
                                     </value>
                                     <value name="Y">
                                       <block type="math_number" id="fxu.W}C%gDWo1^OwDbfg">
-                                        <field name="NUM">515</field>
+                                        <field name="NUM">440</field>
                                       </block>
                                     </value>
                                     <value name="TIMES">
@@ -121,12 +121,12 @@
                                           <block type="click_x_y" id="?w5yWh||it7#)TZ;O4a!">
                                             <value name="X">
                                               <block type="math_number" id="$RSgn{k0CSa7{2S8{O^e">
-                                                <field name="NUM">816</field>
+                                                <field name="NUM">830</field>
                                               </block>
                                             </value>
                                             <value name="Y">
                                               <block type="math_number" id="Oy(O)pKU;3|.TG1=VewZ">
-                                                <field name="NUM">556</field>
+                                                <field name="NUM">506</field>
                                               </block>
                                             </value>
                                             <value name="TIMES">
@@ -145,12 +145,12 @@
                                                   <block type="click_x_y" id="yKT_G{19b$@h7{U0:i]9">
                                                     <value name="X">
                                                       <block type="math_number" id="-*ZG_Vex%2ngDRPbX:L`">
-                                                        <field name="NUM">864</field>
+                                                        <field name="NUM">830</field>
                                                       </block>
                                                     </value>
                                                     <value name="Y">
                                                       <block type="math_number" id="On?g@SzBsl|J|mj:V+Id">
-                                                        <field name="NUM">612</field>
+                                                        <field name="NUM">506</field>
                                                       </block>
                                                     </value>
                                                     <value name="TIMES">
@@ -169,12 +169,12 @@
                                                           <block type="click_x_y" id="vm5-B7{*I1F%^1~6sMPq">
                                                             <value name="X">
                                                               <block type="math_number" id="``at~P*Qzi(Us(+cvhKg">
-                                                                <field name="NUM">982</field>
+                                                                <field name="NUM">975</field>
                                                               </block>
                                                             </value>
                                                             <value name="Y">
                                                               <block type="math_number" id="QwKWBxe/)T=/RhPa6a:!">
-                                                                <field name="NUM">542</field>
+                                                                <field name="NUM">493</field>
                                                               </block>
                                                             </value>
                                                             <value name="TIMES">
@@ -193,12 +193,12 @@
                                                                   <block type="click_x_y" id="f5rSCGL@=Yk]JWkyd@;g">
                                                                     <value name="X">
                                                                       <block type="math_number" id="6R]2s2_D~pnUYtLfQ;a]">
-                                                                        <field name="NUM">982</field>
+                                                                        <field name="NUM">981</field>
                                                                       </block>
                                                                     </value>
                                                                     <value name="Y">
                                                                       <block type="math_number" id="iXCgy|Ub_qs/U1hSm~6o">
-                                                                        <field name="NUM">533</field>
+                                                                        <field name="NUM">741</field>
                                                                       </block>
                                                                     </value>
                                                                     <value name="TIMES">
@@ -243,7 +243,7 @@
                                                                                     </value>
                                                                                     <value name="Y">
                                                                                       <block type="math_number" id="3LT21-_OZA/m/@x!n:z3">
-                                                                                        <field name="NUM">600</field>
+                                                                                        <field name="NUM">480</field>
                                                                                       </block>
                                                                                     </value>
                                                                                     <value name="TIMES">
@@ -269,12 +269,12 @@
                                                                                               <block type="click_x_y" id="Wd.N@ICFC)u%pTR@TN_8">
                                                                                                 <value name="X">
                                                                                                   <block type="math_number" id="0W));h:f=pF@UvG2Rxyr">
-                                                                                                    <field name="NUM">883</field>
+                                                                                                    <field name="NUM">850</field>
                                                                                                   </block>
                                                                                                 </value>
                                                                                                 <value name="Y">
                                                                                                   <block type="math_number" id="Fj)1S=3}NHw.reP_$J,X">
-                                                                                                    <field name="NUM">510</field>
+                                                                                                    <field name="NUM">350</field>
                                                                                                   </block>
                                                                                                 </value>
                                                                                                 <value name="TIMES">
@@ -302,27 +302,27 @@
                                                                                                             <field name="pos_y" id="hcSB8#SGkC!pT)L{=b%d">圖片像素Y</field>
                                                                                                             <statement name="get_pixel_pos_setting">
                                                                                                               <block type="pixel_color_id" id="NIAn;Jq3)TM`)PNl,q)A">
-                                                                                                                <field name="ColorID">12189</field>
+                                                                                                                <field name="ColorID">14182A</field>
                                                                                                                 <next>
                                                                                                                   <block type="pixel_search_area" id="1Y)2NPbu0=q{v4iQ2QTd">
                                                                                                                     <value name="X">
                                                                                                                       <block type="math_number" id="%.dQCzdDe`/e:5Cv2b+A">
-                                                                                                                        <field name="NUM">964</field>
+                                                                                                                        <field name="NUM">1033</field>
                                                                                                                       </block>
                                                                                                                     </value>
                                                                                                                     <value name="Y">
                                                                                                                       <block type="math_number" id="ome}9h~2N{zcvJo`B$:4">
-                                                                                                                        <field name="NUM">584</field>
+                                                                                                                        <field name="NUM">455</field>
                                                                                                                       </block>
                                                                                                                     </value>
                                                                                                                     <value name="W">
                                                                                                                       <block type="math_number" id="EG_6:a=wVpQnI/jY09,]">
-                                                                                                                        <field name="NUM">1049</field>
+                                                                                                                        <field name="NUM">1143</field>
                                                                                                                       </block>
                                                                                                                     </value>
                                                                                                                     <value name="H">
                                                                                                                       <block type="math_number" id=".F#9Xobb6fw6D{=n2:$]">
-                                                                                                                        <field name="NUM">605</field>
+                                                                                                                        <field name="NUM">484</field>
                                                                                                                       </block>
                                                                                                                     </value>
                                                                                                                   </block>
@@ -332,6 +332,16 @@
                                                                                                             <statement name="DO">
                                                                                                               <block type="procedures_callnoreturn" id="[hf|a3lR3e~I*ioW?~hk">
                                                                                                                 <mutation name="跳過"></mutation>
+                                                                                                                <next>
+                                                                                                                  <block type="variables_set" id=".V5QN?)~DN/wWWaf]S+l">
+                                                                                                                    <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+                                                                                                                    <value name="VALUE">
+                                                                                                                      <block type="text" id=";Zk02]NE-22qC`?8SwD@">
+                                                                                                                        <field name="TEXT">OK</field>
+                                                                                                                      </block>
+                                                                                                                    </value>
+                                                                                                                  </block>
+                                                                                                                </next>
                                                                                                               </block>
                                                                                                             </statement>
                                                                                                             <statement name="ELSE_DO">
@@ -359,6 +369,16 @@
                                                                                 </next>
                                                                               </block>
                                                                             </statement>
+                                                                            <next>
+                                                                              <block type="variables_set" id="(JJRff.@$41+%g1(@p#a">
+                                                                                <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
+                                                                                <value name="VALUE">
+                                                                                  <block type="text" id="n0quTCa%WmjU#S1%}Dyd">
+                                                                                    <field name="TEXT"></field>
+                                                                                  </block>
+                                                                                </value>
+                                                                              </block>
+                                                                            </next>
                                                                           </block>
                                                                         </next>
                                                                       </block>
@@ -389,25 +409,6 @@
                     </next>
                   </block>
                 </statement>
-                <next>
-                  <block type="sleep" id="i9%HI5ITOt3+,C$4q3iy">
-                    <value name="NAME">
-                      <block type="math_number" id="_xE?[Hy:MGIYAEIBi@{U">
-                        <field name="NUM">7000</field>
-                      </block>
-                    </value>
-                    <next>
-                      <block type="variables_set" id="(JJRff.@$41+%g1(@p#a">
-                        <field name="VAR" id="9vdU)iZx3R2VNs`lDiC4">變數 x</field>
-                        <value name="VALUE">
-                          <block type="text" id="n0quTCa%WmjU#S1%}Dyd">
-                            <field name="TEXT"></field>
-                          </block>
-                        </value>
-                      </block>
-                    </next>
-                  </block>
-                </next>
               </block>
             </next>
           </block>
@@ -438,12 +439,12 @@
               <block type="click_x_y" id="nU-7*Y]4phPo;xGZCRU3">
                 <value name="X">
                   <block type="math_number" id="MpN?|V?QSh_lxdknFMn}">
-                    <field name="NUM">979</field>
+                    <field name="NUM">981</field>
                   </block>
                 </value>
                 <value name="Y">
                   <block type="math_number" id=";{5n-a19bQU0(HW`f8kF">
-                    <field name="NUM">646</field>
+                    <field name="NUM">588</field>
                   </block>
                 </value>
                 <value name="TIMES">
@@ -472,12 +473,12 @@
                               <block type="click_x_y" id="_67%{[ha6V4+1L%tv^wD">
                                 <value name="X">
                                   <block type="math_number" id="UC^tdo(tX4-yV.A4,jb~">
-                                    <field name="NUM">979</field>
+                                    <field name="NUM">987</field>
                                   </block>
                                 </value>
                                 <value name="Y">
                                   <block type="math_number" id="g-?9`XtB}x}3`zMSEIlT">
-                                    <field name="NUM">987</field>
+                                    <field name="NUM">888</field>
                                   </block>
                                 </value>
                                 <value name="TIMES">
@@ -496,12 +497,12 @@
                                       <block type="click_x_y" id="t[WX~t;cL!Hzf!luFlS]">
                                         <value name="X">
                                           <block type="math_number" id="YTkvS%h_d^7)}p@(E#@U">
-                                            <field name="NUM">979</field>
+                                            <field name="NUM">987</field>
                                           </block>
                                         </value>
                                         <value name="Y">
                                           <block type="math_number" id="J.J*8j7L(I2;dPdw)s}o">
-                                            <field name="NUM">987</field>
+                                            <field name="NUM">888</field>
                                           </block>
                                         </value>
                                         <value name="TIMES">
@@ -520,12 +521,12 @@
                                               <block type="click_x_y" id="0|Gggi3xyItt2qJy$lDU">
                                                 <value name="X">
                                                   <block type="math_number" id="zB^E1-`0s`gcp[MvOIA(">
-                                                    <field name="NUM">979</field>
+                                                    <field name="NUM">987</field>
                                                   </block>
                                                 </value>
                                                 <value name="Y">
                                                   <block type="math_number" id="(|kHgmR:T(C9#At)siS?">
-                                                    <field name="NUM">987</field>
+                                                    <field name="NUM">888</field>
                                                   </block>
                                                 </value>
                                                 <value name="TIMES">
@@ -545,6 +546,15 @@
                             </next>
                           </block>
                         </statement>
+                        <next>
+                          <block type="sleep" id="XmR=Mf6HmP[jW[SY0z|[">
+                            <value name="NAME">
+                              <block type="math_number" id=";yR`(900zxR^M#FZq/o0">
+                                <field name="NUM">10000</field>
+                              </block>
+                            </value>
+                          </block>
+                        </next>
                       </block>
                     </next>
                   </block>
